@@ -1,0 +1,1 @@
+sudo service mongod start - run this before to start mongodb shell
